@@ -1,0 +1,1 @@
+I use the pokedex that i´ve made with scrapy (go check it out)
